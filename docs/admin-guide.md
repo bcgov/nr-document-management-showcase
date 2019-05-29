@@ -33,11 +33,11 @@ The DMS folder structure consists of static folders and dynamic folders. Dynamic
 
 There are muliple levels of folders used by the DMS:
 
--   Root folders: Top level static folders for Natural Resource business documents;
+-   Root folders: Top level static folders for Natural Resource business documents
 
--   ;Source System folders: used to segregate and secure documents by line-of-business (LOB).
+-   Source System folders: used to segregate and secure documents by line-of-business (LOB)
 
--   Engagement folders: used solely by applications launched from within the Natural Resource Online Services (NRSOS) portal.
+-   Engagement folders: used solely by applications launched from within the Natural Resource Online Services (NRSOS) portal
 
 ## Root Folders
 
@@ -46,10 +46,10 @@ Not all Root folders can be viewed with the DMS-API. Only the folders NRS, DG_TE
 Root folders currently defined include:
 
 -   FOI: Stores all FOI folios. These folders are only visible only in the WCC console;
--   DOCUMENT_DISCOVERY: Stores all folios and files used for document discovery. This folder is s visible only in the WCC console;
+-   DOCUMENT_DISCOVERY: Stores all folios and files used for document discovery. This folder is visible only in the WCC console;
 -   DM_API: Reserved for testing purposes. This folder is not present in the Production environment;
 -   DG_TEMPLATES: Contains documents used by the Document Generation API;
--   NRS: The root level folder for all documents created by business areas within the Natural Resource; Ministries. Subfolders are to be specified by Business Analysts as new business areas adopt the DMS;
+-   NRS: The root level folder for all documents created by business areas within the Natural Resource Ministries. Subfolders are to be specified by Business Analysts as new business areas adopt the DMS;
 -   NRSOS: Used solely by the NRSOS portal.
 
 ## System Source Folders
@@ -118,7 +118,7 @@ Follow these steps to configure the Document Management preferences:
 The following table lists the Document Management preferences you can configure, the component using each preference, and a description.
 
 | Component        | Preference Name         | Description                                                  |
-| ---------------- | ----------------------- | :----------------------------------------------------------- |
+| ---------------- | ----------------------- | ----------------------------------------------------------- |
 | dm.rest          | engagementFoldersRoot   | Main Root folder where source system folders, engagement folders, and files can be   created |
 | dm.rest          | rootFolders             | Root   folders that can be seen by the DM API                |
 | dm.service       | wccRidcUrl              | The URL that the DM API calls to communicate with WCC RIDC web services |
@@ -158,11 +158,11 @@ A Records Manager can also search FOI Folios for documents already saved to a fo
 
 2. Enter your search criteria using Metadata Search, Full-text Search, or a combination of both.
 
-   <u>Note:</u> The Engagement ID field in the Metadata Search area is the ID of an application request submitted by a client from the NR Online Services portal.
+   *Note*: The Engagement ID field in the Metadata Search area is the ID of an application request submitted by a client from the NR Online Services portal.
 
 3. Set the search Results Options by adjusting the number of search results per page and the field sort order. The search is saved to the My Saved Queries tray.
 
-   <u>Note:</u> If you are going to reuse the search, you can save it as a query. Click Search Actions, select Save Search, enter a name for the query, and click OK**.
+   *Note*: If you are going to reuse the search, you can save it as a query. Click Search Actions, select Save Search, enter a name for the query, and click OK**.
 
 4. Click Search. The Search Results screen displays the results from a search operation. A successful search displays a list of documents with a link to each document. If the search returns no results, the message Found 0 potential items displays.
 
