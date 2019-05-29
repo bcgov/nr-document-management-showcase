@@ -25,7 +25,8 @@ To administer the DMS, familiarity with the following aspects of WCC is required
 
 ## Folder Structure
 
-The Oracle WebCenter Content (WCC) folder structure must be preconfigured for business areas. This ensures that documents are stored in a consistent manner that conforms to the Province's records management policies. Documents stored within the DMS must be accessible for Records Management, FOI, and legal discovery requests.
+The Oracle WebCenter Content (WCC) folder structure must be preconfigured for business areas. This ensures that documents are stored in a consistent manner that conforms to the Province's records management policies. Documents stored within the DMS must be accessible for Records Management, FOI, and legal discovery requests.  
+
 ![](./wcc-folder-structure.png)
 **Figure 1- DMS folder structure**
 
