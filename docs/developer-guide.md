@@ -1,3 +1,8 @@
+---
+title: Document Management Developer Guide   
+description: Capabilities, OAuth Security, API Endpoints, Example Code
+---  
+
 # DMS Developer’s Guide
 
 The Document Management System (DMS) can store a variety of objects including documents, spreadsheets, images, videos and shape files. The DMS can only be accessed programmatically via the DMS-API. A description of the DMS-API can be found in [NRM API Store](https://apistore.nrs.gov.bc.ca/store/apis/info?name=dms-api&version=v1&provider=admin).
@@ -17,7 +22,6 @@ The DMS API provides the capability to store and retrieve non-structured data as
 -   Links: A link is a shortcut to a file that resides in another folder.
 
 ## Security
-
 
 **DMS Security**
 
@@ -45,9 +49,9 @@ The folders visible through the DMS-API include:
 
 The second level folders in the DMS are called Source System folders. Line-of-business specific folders are configured at this level.
 
-The third level folders in the DMS are called Engagement Folders. Engagement folders are currently used only by NRSOS (NRPP). One engagement folder is created under NRS/NRSOS for each new permit application. All files stored in and engagement folder will have the same security permissions and will share the same metadata.
+The third level folders in the DMS are called Engagement Folders. Engagement folders are currently used only by NRSOS (NRPP). One engagement folder is created under NRS/NRSOS for each new permit application. All files stored in and engagement folderr will have the same security permissions and will share the same metadata.
 
-![](C:\Temp\DMS_Folder_Structure.jpg)
+![DMS Folder Structure](./wcc-folder-structure.png)  
 
 Figure 1- DMS Folder Structure
 
