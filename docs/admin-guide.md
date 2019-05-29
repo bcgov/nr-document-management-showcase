@@ -25,8 +25,9 @@ To administer the DMS, familiarity with the following aspects of WCC is required
 
 ## Folder Structure
 
-The Oracle WebCenter Content (WCC) folder structure must be preconfigured for business areas. This ensures that documents are stored in a consistent manner that conforms to the Province's records management policies. Documents stored within the DMS must be accessible for Records Management, FOI, and legal discovery requests.
+The Oracle WebCenter Content (WCC) folder structure must be preconfigured for business areas. This ensures that documents are stored in a consistent manner that conforms to the Province's records management policies. Documents stored within the DMS must be accessible for Records Management, FOI, and legal discovery requests.  
 
+![](./wcc-folder-structure.png)
 **Figure 1- DMS folder structure**
 
 The DMS folder structure consists of static folders and dynamic folders. Dynamic folders can be modified to meet the needs of individual line-of-business clients. 
@@ -93,7 +94,7 @@ In this example, a new line-of-business (Mines) has a requirement to use the DMS
 
 # Using Oracle's WebCenter Content (WCC)
 
-## **Create a New Folder in WCC **
+## Create a New Folder in WCC
 
 1. Open Oracle WebCenter Content and log in as the administrator.
 2. In the Browse Content pane, expand **Folders** and select the Root folder where you want to create the Source System folder.
@@ -176,7 +177,7 @@ A Records Manager can also search FOI Folios for documents already saved to a fo
 
 1. From the Search Results screen click the check box for each document you want to add to the folio.
 2. Expand the Actions menu in the search results toolbar and select Add Items to Folio. The Add Items to Folio window opens.
-3. Select Existing Folio and click ****Next.**
+3. Select Existing Folio and click **Next.**
 4. Select the profile (NR Document or FOI Folio) and click Next. The Search for Existing Folio window displays.
 5. Enter your search criteria using Full-text Search, Metadata Search, or a combination of both.
 6. Set the search Results Options by adjusting the number of search Results Per Page and the Sort By options.
@@ -196,7 +197,7 @@ A Records Manager can also search FOI Folios for documents already saved to a fo
 8. Click **Check in**.
 9. Select a navigation option from the Folio Check In Confirmation window and click **Finish**.
 
-**Download Document**s
+**Download Documents**
 
 The Records Manager function in WCC can download the documents in a folio in a variety of formats. All documents in the folio are included in the download, consolidated in a single file.
 
