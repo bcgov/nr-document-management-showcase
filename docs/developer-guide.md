@@ -1,7 +1,7 @@
 ---
-title: Document Management Developer Guide   
+title: Document Management Developer Guide
 description: Capabilities, OAuth Security, API Endpoints, Example Code
----  
+---
 
 # DMS Developer’s Guide
 
