@@ -18,8 +18,8 @@ description:  Store, update, index and retrieve attachments and documents.
 
 [Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
 [DevHub](https://developer.gov.bc.ca)  
-[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to try out the DMS capabilities
-[DMOD](https://dmod.pathfinder.gov.bc.ca) - Done in 2018
+[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to try out the DMS capabilities  
+[DMOD](https://dmod.pathfinder.gov.bc.ca) - Done in 2018  
 
 ### Related GitHub Repositories
 [nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase) - GitHub Repo   
