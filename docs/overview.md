@@ -20,8 +20,10 @@ description:  Store, update, index and retrieve attachments and documents.
 [DevHub](https://developer.gov.bc.ca)  
 [DOMO](https://-master-domo.pathfinder.gov.bc.ca) - A showcase app to try out the capabilities  
 
+### Related GitHub Repositories
 [nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase) - GitHub Repo   
 [nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase) - GitHub Repo   
+[nr-get-token](https://github.com/bcgov/nr-get-token) - GitHub Repo   
 
 ### Compatibility  
 
