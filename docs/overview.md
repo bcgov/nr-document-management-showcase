@@ -33,8 +33,9 @@ DMS File types supported include:
 
 ## Additional Resources
 
-[The Open API definition for the DMS](https://apistore.nrs.gov.bc.ca/store/apis/info?provider=admin&version=v1&name=dms-api)
+[The Open API definition for the DMS](https://apistore.nrs.gov.bc.ca/store/apis/info?provider=admin&version=v1&name=dms-api)  
+[DMS Administration Guide](./docs/admin-guide.md)  
+[Documentation for the DMS API](https://apps.nrs.gov.bc.ca/int/confluence/display/DO/dms-api)  
 
-[Documentation for the DMS API](https://apps.nrs.gov.bc.ca/int/confluence/display/DO/dms-api)
-
+**Legacy Documentation:**  
 [DMS Administrator's Guide](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=14909703)   
