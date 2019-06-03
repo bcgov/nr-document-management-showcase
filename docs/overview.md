@@ -18,13 +18,14 @@ description:  Store, update, index and retrieve attachments and documents.
 
 [Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
 [DevHub](https://developer.gov.bc.ca)  
-[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to try out the DMS capabilities  
-[DMOD](https://dmod.pathfinder.gov.bc.ca) - Done in 2018  
+[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to help developers implement the DMS capabilities  
+[DMOD](https://dmod.pathfinder.gov.bc.ca) - A showcase app done in 2018  (requires the dmod-user authorization in iauth.nrs.gov.bc.ca/int/adam)  
 
 ### Related GitHub Repositories
-[nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase) - GitHub Repo   
-[nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase) - GitHub Repo   
-[nr-get-token](https://github.com/bcgov/nr-get-token) - GitHub Repo   
+[nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase)    
+[nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase)    
+[nr-get-token](https://github.com/bcgov/nr-get-token)    
+[csnr-dmod](https://github.com/bcgov/csnr-dmod)   
 
 ### Compatibility  
 
