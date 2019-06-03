@@ -16,13 +16,12 @@ description:  Store, update, index and retrieve attachments and documents.
 
 ### Getting Started
 
-[Learn more about the DMS API](https://www.github.com/bcgov/dms-sc/readme.md)  
+[Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
+[DevHub](https://developer.gov.bc.ca)  
+[DOMO](https://-master-domo.pathfinder.gov.bc.ca) - A showcase app to try out the capabilities  
 
-[Check the DevHub for other NRM Common Services](https://developer.gov.bc.ca)
-
-[Try out the capabilities](https://dms-sc.pathfinder.gov.bc.ca)
-
-Learn how to build your own application that connects to dms: [DMS-SC on Github](https://github.com/bcgov/dms-sc)
+[nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase) - GitHub Repo   
+[nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase) - GitHub Repo   
 
 ### Compatibility  
 
@@ -36,4 +35,4 @@ DMS File types supported include:
 
 [Documentation for the DMS API](https://apps.nrs.gov.bc.ca/int/confluence/display/DO/dms-api)
 
- [DMS Administrator's Guide](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=14909703)   
+[DMS Administrator's Guide](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=14909703)   
