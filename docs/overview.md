@@ -16,13 +16,16 @@ description:  Store, update, index and retrieve attachments and documents.
 
 ### Getting Started
 
-[Learn more about the DMS API](https://www.github.com/bcgov/dms-sc/readme.md)  
+[Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
+[DevHub](https://developer.gov.bc.ca)  
+[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to help developers implement the DMS capabilities  
+[DMOD](https://dmod.pathfinder.gov.bc.ca) - A showcase app done in 2018  (requires the dmod-user authorization in iauth.nrs.gov.bc.ca/int/adam)  
 
-[Check the DevHub for other NRM Common Services](https://developer.gov.bc.ca)
-
-[Try out the capabilities](https://dms-sc.pathfinder.gov.bc.ca)
-
-Learn how to build your own application that connects to dms: [DMS-SC on Github](https://github.com/bcgov/dms-sc)
+### Related GitHub Repositories
+[nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase)    
+[nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase)    
+[nr-get-token](https://github.com/bcgov/nr-get-token)    
+[csnr-dmod](https://github.com/bcgov/csnr-dmod)   
 
 ### Compatibility  
 
@@ -32,8 +35,9 @@ DMS File types supported include:
 
 ## Additional Resources
 
-[The Open API definition for the DMS](https://apistore.nrs.gov.bc.ca/store/apis/info?provider=admin&version=v1&name=dms-api)
+[The Open API definition for the DMS](https://apistore.nrs.gov.bc.ca/store/apis/info?provider=admin&version=v1&name=dms-api)  
+[DMS Administration Guide](./admin-guide.md)  
+[Documentation for the DMS API](https://apps.nrs.gov.bc.ca/int/confluence/display/DO/dms-api)  
 
-[Documentation for the DMS API](https://apps.nrs.gov.bc.ca/int/confluence/display/DO/dms-api)
-
- [DMS Administrator's Guide](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=14909703)   
+**Legacy Documentation:**  
+[DMS Administrator's Guide](https://apps.nrs.gov.bc.ca/int/confluence/pages/viewpage.action?pageId=14909703)   
