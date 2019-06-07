@@ -1,5 +1,5 @@
 ---
-title: Document Management Service  
+title: NR Document Management Showcase  
 description:  Store, update, index and retrieve attachments and documents.   
 ---   
 
@@ -16,16 +16,18 @@ description:  Store, update, index and retrieve attachments and documents.
 
 ### Getting Started
 
-[Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
-[DevHub](https://developer.gov.bc.ca)  
-[DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to help developers implement the DMS capabilities  
-[DMOD](https://dmod.pathfinder.gov.bc.ca) - A showcase app done in 2018  (requires the dmod-user authorization in iauth.nrs.gov.bc.ca/int/adam)  
+- [Getting Started](https://github.com/bcgov/nr-get-token/wiki/Getting-Started)
+- [Developer Guide](https://www.github.com/bcgov/nr-document-management-showcase/readme.md) - Learn how to build your own application that connects to dms-api  
+- [DevHub](https://developer.gov.bc.ca)  
+- [DOMO](https://domo-master-jcyvmi-dev.pathfinder.gov.bc.ca) (Coming Soon) - A showcase app to help developers implement the DMS capabilities  
+- [DMOD](https://dmod.pathfinder.gov.bc.ca) - A showcase app done in 2018  (requires the dmod-user authorization in iauth.nrs.gov.bc.ca/int/adam)  
 
 ### Related GitHub Repositories
 [nr-document-generation-showcase](https://github.com/bcgov/nr-document-generation-showcase)    
 [nr-messaging-service-showcase](https://github.com/bcgov/nr-messaging-service-showcase)    
 [nr-get-token](https://github.com/bcgov/nr-get-token)    
-[csnr-dmod](https://github.com/bcgov/csnr-dmod)   
+[csnr-dmod](https://github.com/bcgov/csnr-dmod) 
+[nr-showcase repositories](https://github.com/bcgov/?=nr-showcase)  
 
 ### Compatibility  
 
